@@ -1,5 +1,5 @@
 # fuzzy-logic-with-python
-fuzzy logic using python without libraries (TR_tr: bulanık Mantık)
+fuzzy logic using python without any libraries & packages (TR_tr: bulanık Mantık)
 
 
 
