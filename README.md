@@ -1,4 +1,4 @@
-# fuzzy-logic-with-python
+🎓 Fuzzy Logic-Based Intelligent Grading System
 fuzzy logic using python without any libraries & packages (TR_tr: bulanık Mantık)
 
 A flexible and adaptive approach for student performance evaluation using fuzzy logic.
